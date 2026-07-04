@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">Wanna be Software Engineer</h3>
 
-- 🌱 I’m currently learning **pandas and Data analytics**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamcaioz](https://github.com/iamcaioz)
 
